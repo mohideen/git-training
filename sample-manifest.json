@@ -1,0 +1,315 @@
+{
+"@context": "http://iiif.io/api/presentation/2/context.json",
+"@id": "https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/c1/d1/55/d5/c1d155d5-1633-44cb-8049-febc0b3e4ff2",
+"@type": "sc:Manifest",
+"label": {
+    "@none": [
+      "The diamondback (College Park, Md.), 1950-01-06"
+    ]
+  },
+"metadata": [],
+"thumbnail": {},
+"navDate": "1950-01-06T00:00:00Z",
+"license": null,
+"attribution": null,
+"logo": {},
+"sequences": [
+{
+"@id": "https://iiif.lib.umd.edu/manifests/fcrepo:pcdm%2Fc1%2Fd1%2F55%2Fd5%2Fc1d155d5-1633-44cb-8049-febc0b3e4ff2/sequence/normal",
+"@type": "sc:Sequence",
+"label": {
+    "@none": [
+      ""Current Page Order""
+    ]
+  },
+"startCanvas": "https://iiif.lib.umd.edu/manifests/fcrepo:pcdm%2Fc1%2Fd1%2F55%2Fd5%2Fc1d155d5-1633-44cb-8049-febc0b3e4ff2/canvas/fcrepo:pcdm%2Fe5%2F69%2F37%2Fdf%2Fe56937df-cb5b-4a5a-95dc-b9abb2446542",
+"canvases": [
+{
+"@id": "https://iiif.lib.umd.edu/manifests/fcrepo:pcdm%2Fc1%2Fd1%2F55%2Fd5%2Fc1d155d5-1633-44cb-8049-febc0b3e4ff2/canvas/fcrepo:pcdm%2Fe5%2F69%2F37%2Fdf%2Fe56937df-cb5b-4a5a-95dc-b9abb2446542",
+"@type": "sc:Canvas",
+"label": {
+    "@none": [
+      "Page 1"
+    ]
+  },
+"height": 5323,
+"width": 3923,
+"images": [
+{
+"@id": "https://iiif.lib.umd.edu/manifests/fcrepo:pcdm%2Fc1%2Fd1%2F55%2Fd5%2Fc1d155d5-1633-44cb-8049-febc0b3e4ff2/annotation/fcrepo:pcdm%2F43%2Ff8%2Fb2%2Fba%2F43f8b2ba-6a1b-423f-9315-a74ac6743024",
+"@type": "oa:Annotation",
+"motivation": "sc:painting",
+"resource": {},
+"on": "https://iiif.lib.umd.edu/manifests/fcrepo:pcdm%2Fc1%2Fd1%2F55%2Fd5%2Fc1d155d5-1633-44cb-8049-febc0b3e4ff2/canvas/fcrepo:pcdm%2Fe5%2F69%2F37%2Fdf%2Fe56937df-cb5b-4a5a-95dc-b9abb2446542"
+}
+],
+"otherContent": [
+{
+"@id": "https://iiif.lib.umd.edu/manifests/fcrepo:pcdm%2Fc1%2Fd1%2F55%2Fd5%2Fc1d155d5-1633-44cb-8049-febc0b3e4ff2/list/fcrepo:pcdm%2Fe5%2F69%2F37%2Fdf%2Fe56937df-cb5b-4a5a-95dc-b9abb2446542",
+"@type": "sc:AnnotationList"
+}
+]
+},
+{
+"@id": "https://iiif.lib.umd.edu/manifests/fcrepo:pcdm%2Fc1%2Fd1%2F55%2Fd5%2Fc1d155d5-1633-44cb-8049-febc0b3e4ff2/canvas/fcrepo:pcdm%2Fe3%2F08%2F0b%2F8d%2Fe3080b8d-eb81-460a-9bdd-48e8496c2468",
+"@type": "sc:Canvas",
+"label": {
+    "@none": [
+      "Page 2"
+    ]
+  },
+"height": 5323,
+"width": 3923,
+"images": [
+{
+"@id": "https://iiif.lib.umd.edu/manifests/fcrepo:pcdm%2Fc1%2Fd1%2F55%2Fd5%2Fc1d155d5-1633-44cb-8049-febc0b3e4ff2/annotation/fcrepo:pcdm%2F1d%2F49%2F6a%2F2f%2F1d496a2f-b661-4dae-8191-8979efbfffab",
+"@type": "oa:Annotation",
+"motivation": "sc:painting",
+"resource": {
+"@id": "https://iiif.lib.umd.edu/images/fcrepo:pcdm%2F1d%2F49%2F6a%2F2f%2F1d496a2f-b661-4dae-8191-8979efbfffab",
+"@type": "dctypes:Image",
+"format": "image/jpeg",
+"service": {
+"@context": "http://iiif.io/api/image/2/context.json",
+"@id": "https://iiif.lib.umd.edu/images/fcrepo:pcdm%2F1d%2F49%2F6a%2F2f%2F1d496a2f-b661-4dae-8191-8979efbfffab",
+"profile": "http://iiif.io/api/image/2/profiles/level2.json"
+},
+"height": 5323,
+"width": 3923
+},
+"on": "https://iiif.lib.umd.edu/manifests/fcrepo:pcdm%2Fc1%2Fd1%2F55%2Fd5%2Fc1d155d5-1633-44cb-8049-febc0b3e4ff2/canvas/fcrepo:pcdm%2Fe3%2F08%2F0b%2F8d%2Fe3080b8d-eb81-460a-9bdd-48e8496c2468"
+}
+],
+"otherContent": [
+{
+"@id": "https://iiif.lib.umd.edu/manifests/fcrepo:pcdm%2Fc1%2Fd1%2F55%2Fd5%2Fc1d155d5-1633-44cb-8049-febc0b3e4ff2/list/fcrepo:pcdm%2Fe3%2F08%2F0b%2F8d%2Fe3080b8d-eb81-460a-9bdd-48e8496c2468",
+"@type": "sc:AnnotationList"
+}
+]
+},
+{
+"@id": "https://iiif.lib.umd.edu/manifests/fcrepo:pcdm%2Fc1%2Fd1%2F55%2Fd5%2Fc1d155d5-1633-44cb-8049-febc0b3e4ff2/canvas/fcrepo:pcdm%2Fe9%2F63%2F73%2F43%2Fe9637343-fca8-4096-8810-697c1fad3581",
+"@type": "sc:Canvas",
+"label": {
+    "@none": [
+      "Page 3"
+    ]
+  },
+"height": 5323,
+"width": 3923,
+"images": [
+{
+"@id": "https://iiif.lib.umd.edu/manifests/fcrepo:pcdm%2Fc1%2Fd1%2F55%2Fd5%2Fc1d155d5-1633-44cb-8049-febc0b3e4ff2/annotation/fcrepo:pcdm%2F5c%2Ffb%2F61%2Fdc%2F5cfb61dc-92f6-45ed-af4e-7e2db15272d6",
+"@type": "oa:Annotation",
+"motivation": "sc:painting",
+"resource": {
+"@id": "https://iiif.lib.umd.edu/images/fcrepo:pcdm%2F5c%2Ffb%2F61%2Fdc%2F5cfb61dc-92f6-45ed-af4e-7e2db15272d6",
+"@type": "dctypes:Image",
+"format": "image/jpeg",
+"service": {
+"@context": "http://iiif.io/api/image/2/context.json",
+"@id": "https://iiif.lib.umd.edu/images/fcrepo:pcdm%2F5c%2Ffb%2F61%2Fdc%2F5cfb61dc-92f6-45ed-af4e-7e2db15272d6",
+"profile": "http://iiif.io/api/image/2/profiles/level2.json"
+},
+"height": 5323,
+"width": 3923
+},
+"on": "https://iiif.lib.umd.edu/manifests/fcrepo:pcdm%2Fc1%2Fd1%2F55%2Fd5%2Fc1d155d5-1633-44cb-8049-febc0b3e4ff2/canvas/fcrepo:pcdm%2Fe9%2F63%2F73%2F43%2Fe9637343-fca8-4096-8810-697c1fad3581"
+}
+],
+"otherContent": [
+{
+"@id": "https://iiif.lib.umd.edu/manifests/fcrepo:pcdm%2Fc1%2Fd1%2F55%2Fd5%2Fc1d155d5-1633-44cb-8049-febc0b3e4ff2/list/fcrepo:pcdm%2Fe9%2F63%2F73%2F43%2Fe9637343-fca8-4096-8810-697c1fad3581",
+"@type": "sc:AnnotationList"
+}
+]
+},
+{
+"@id": "https://iiif.lib.umd.edu/manifests/fcrepo:pcdm%2Fc1%2Fd1%2F55%2Fd5%2Fc1d155d5-1633-44cb-8049-febc0b3e4ff2/canvas/fcrepo:pcdm%2Fa0%2Fe3%2F2c%2F40%2Fa0e32c40-bed5-47e2-94e2-506be7718c6a",
+"@type": "sc:Canvas",
+"label": {
+    "@none": [
+      "Page 4"
+    ]
+  },
+"height": 5323,
+"width": 3923,
+"images": [
+{
+"@id": "https://iiif.lib.umd.edu/manifests/fcrepo:pcdm%2Fc1%2Fd1%2F55%2Fd5%2Fc1d155d5-1633-44cb-8049-febc0b3e4ff2/annotation/fcrepo:pcdm%2Fd1%2Fe5%2F42%2F5b%2Fd1e5425b-724b-4c36-9a67-de9a39dd51f7",
+"@type": "oa:Annotation",
+"motivation": "sc:painting",
+"resource": {
+"@id": "https://iiif.lib.umd.edu/images/fcrepo:pcdm%2Fd1%2Fe5%2F42%2F5b%2Fd1e5425b-724b-4c36-9a67-de9a39dd51f7",
+"@type": "dctypes:Image",
+"format": "image/jpeg",
+"service": {
+"@context": "http://iiif.io/api/image/2/context.json",
+"@id": "https://iiif.lib.umd.edu/images/fcrepo:pcdm%2Fd1%2Fe5%2F42%2F5b%2Fd1e5425b-724b-4c36-9a67-de9a39dd51f7",
+"profile": "http://iiif.io/api/image/2/profiles/level2.json"
+},
+"height": 5323,
+"width": 3923
+},
+"on": "https://iiif.lib.umd.edu/manifests/fcrepo:pcdm%2Fc1%2Fd1%2F55%2Fd5%2Fc1d155d5-1633-44cb-8049-febc0b3e4ff2/canvas/fcrepo:pcdm%2Fa0%2Fe3%2F2c%2F40%2Fa0e32c40-bed5-47e2-94e2-506be7718c6a"
+}
+],
+"otherContent": [
+{
+"@id": "https://iiif.lib.umd.edu/manifests/fcrepo:pcdm%2Fc1%2Fd1%2F55%2Fd5%2Fc1d155d5-1633-44cb-8049-febc0b3e4ff2/list/fcrepo:pcdm%2Fa0%2Fe3%2F2c%2F40%2Fa0e32c40-bed5-47e2-94e2-506be7718c6a",
+"@type": "sc:AnnotationList"
+}
+]
+},
+{
+"@id": "https://iiif.lib.umd.edu/manifests/fcrepo:pcdm%2Fc1%2Fd1%2F55%2Fd5%2Fc1d155d5-1633-44cb-8049-febc0b3e4ff2/canvas/fcrepo:pcdm%2Faa%2Ff6%2Fe8%2Fb8%2Faaf6e8b8-dc48-4c36-b354-20d5319fcf55",
+"@type": "sc:Canvas",
+"label": {
+    "@none": [
+      "Page 5"
+    ]
+  },
+"height": 5323,
+"width": 3923,
+"images": [
+{
+"@id": "https://iiif.lib.umd.edu/manifests/fcrepo:pcdm%2Fc1%2Fd1%2F55%2Fd5%2Fc1d155d5-1633-44cb-8049-febc0b3e4ff2/annotation/fcrepo:pcdm%2F70%2F0f%2F62%2Fdd%2F700f62dd-473f-47e6-a616-9b4ed8608f6c",
+"@type": "oa:Annotation",
+"motivation": "sc:painting",
+"resource": {
+"@id": "https://iiif.lib.umd.edu/images/fcrepo:pcdm%2F70%2F0f%2F62%2Fdd%2F700f62dd-473f-47e6-a616-9b4ed8608f6c",
+"@type": "dctypes:Image",
+"format": "image/jpeg",
+"service": {
+"@context": "http://iiif.io/api/image/2/context.json",
+"@id": "https://iiif.lib.umd.edu/images/fcrepo:pcdm%2F70%2F0f%2F62%2Fdd%2F700f62dd-473f-47e6-a616-9b4ed8608f6c",
+"profile": "http://iiif.io/api/image/2/profiles/level2.json"
+},
+"height": 5323,
+"width": 3923
+},
+"on": "https://iiif.lib.umd.edu/manifests/fcrepo:pcdm%2Fc1%2Fd1%2F55%2Fd5%2Fc1d155d5-1633-44cb-8049-febc0b3e4ff2/canvas/fcrepo:pcdm%2Faa%2Ff6%2Fe8%2Fb8%2Faaf6e8b8-dc48-4c36-b354-20d5319fcf55"
+}
+],
+"otherContent": [
+{
+"@id": "https://iiif.lib.umd.edu/manifests/fcrepo:pcdm%2Fc1%2Fd1%2F55%2Fd5%2Fc1d155d5-1633-44cb-8049-febc0b3e4ff2/list/fcrepo:pcdm%2Faa%2Ff6%2Fe8%2Fb8%2Faaf6e8b8-dc48-4c36-b354-20d5319fcf55",
+"@type": "sc:AnnotationList"
+}
+]
+},
+{
+"@id": "https://iiif.lib.umd.edu/manifests/fcrepo:pcdm%2Fc1%2Fd1%2F55%2Fd5%2Fc1d155d5-1633-44cb-8049-febc0b3e4ff2/canvas/fcrepo:pcdm%2F0b%2F2a%2F1d%2Fca%2F0b2a1dca-e6d0-4ec7-b23d-e91379cc1579",
+"@type": "sc:Canvas",
+"label": {
+    "@none": [
+      "Page 6"
+    ]
+  },
+"height": 5323,
+"width": 3923,
+"images": [
+{
+"@id": "https://iiif.lib.umd.edu/manifests/fcrepo:pcdm%2Fc1%2Fd1%2F55%2Fd5%2Fc1d155d5-1633-44cb-8049-febc0b3e4ff2/annotation/fcrepo:pcdm%2F3a%2Fbd%2F15%2F78%2F3abd1578-5aa2-4af4-ac92-2b0822e73928",
+"@type": "oa:Annotation",
+"motivation": "sc:painting",
+"resource": {
+"@id": "https://iiif.lib.umd.edu/images/fcrepo:pcdm%2F3a%2Fbd%2F15%2F78%2F3abd1578-5aa2-4af4-ac92-2b0822e73928",
+"@type": "dctypes:Image",
+"format": "image/jpeg",
+"service": {
+"@context": "http://iiif.io/api/image/2/context.json",
+"@id": "https://iiif.lib.umd.edu/images/fcrepo:pcdm%2F3a%2Fbd%2F15%2F78%2F3abd1578-5aa2-4af4-ac92-2b0822e73928",
+"profile": "http://iiif.io/api/image/2/profiles/level2.json"
+},
+"height": 5323,
+"width": 3923
+},
+"on": "https://iiif.lib.umd.edu/manifests/fcrepo:pcdm%2Fc1%2Fd1%2F55%2Fd5%2Fc1d155d5-1633-44cb-8049-febc0b3e4ff2/canvas/fcrepo:pcdm%2F0b%2F2a%2F1d%2Fca%2F0b2a1dca-e6d0-4ec7-b23d-e91379cc1579"
+}
+],
+"otherContent": [
+{
+"@id": "https://iiif.lib.umd.edu/manifests/fcrepo:pcdm%2Fc1%2Fd1%2F55%2Fd5%2Fc1d155d5-1633-44cb-8049-febc0b3e4ff2/list/fcrepo:pcdm%2F0b%2F2a%2F1d%2Fca%2F0b2a1dca-e6d0-4ec7-b23d-e91379cc1579",
+"@type": "sc:AnnotationList"
+}
+]
+},
+{
+"@id": "https://iiif.lib.umd.edu/manifests/fcrepo:pcdm%2Fc1%2Fd1%2F55%2Fd5%2Fc1d155d5-1633-44cb-8049-febc0b3e4ff2/canvas/fcrepo:pcdm%2F02%2F8e%2F95%2F98%2F028e9598-5254-4b24-bcc8-1c88b6ec9d43",
+"@type": "sc:Canvas",
+"label": {
+    "@none": [
+      "Page 7"
+    ]
+  },
+"height": 5323,
+"width": 3923,
+"images": [
+{
+"@id": "https://iiif.lib.umd.edu/manifests/fcrepo:pcdm%2Fc1%2Fd1%2F55%2Fd5%2Fc1d155d5-1633-44cb-8049-febc0b3e4ff2/annotation/fcrepo:pcdm%2Fea%2Ff7%2F18%2F1f%2Feaf7181f-9de5-40e7-8baa-156d63b5c017",
+"@type": "oa:Annotation",
+"motivation": "sc:painting",
+"resource": {
+"@id": "https://iiif.lib.umd.edu/images/fcrepo:pcdm%2Fea%2Ff7%2F18%2F1f%2Feaf7181f-9de5-40e7-8baa-156d63b5c017",
+"@type": "dctypes:Image",
+"format": "image/jpeg",
+"service": {
+"@context": "http://iiif.io/api/image/2/context.json",
+"@id": "https://iiif.lib.umd.edu/images/fcrepo:pcdm%2Fea%2Ff7%2F18%2F1f%2Feaf7181f-9de5-40e7-8baa-156d63b5c017",
+"profile": "http://iiif.io/api/image/2/profiles/level2.json"
+},
+"height": 5323,
+"width": 3923
+},
+"on": "https://iiif.lib.umd.edu/manifests/fcrepo:pcdm%2Fc1%2Fd1%2F55%2Fd5%2Fc1d155d5-1633-44cb-8049-febc0b3e4ff2/canvas/fcrepo:pcdm%2F02%2F8e%2F95%2F98%2F028e9598-5254-4b24-bcc8-1c88b6ec9d43"
+}
+],
+"otherContent": [
+{
+"@id": "https://iiif.lib.umd.edu/manifests/fcrepo:pcdm%2Fc1%2Fd1%2F55%2Fd5%2Fc1d155d5-1633-44cb-8049-febc0b3e4ff2/list/fcrepo:pcdm%2F02%2F8e%2F95%2F98%2F028e9598-5254-4b24-bcc8-1c88b6ec9d43",
+"@type": "sc:AnnotationList"
+}
+]
+},
+{
+"@id": "https://iiif.lib.umd.edu/manifests/fcrepo:pcdm%2Fc1%2Fd1%2F55%2Fd5%2Fc1d155d5-1633-44cb-8049-febc0b3e4ff2/canvas/fcrepo:pcdm%2Fa3%2F07%2Fa4%2F45%2Fa307a445-dcae-4821-8489-4f4a8e254fdd",
+"@type": "sc:Canvas",
+"label": {
+    "@none": [
+      "Page 8"
+    ]
+  },
+"height": 5323,
+"width": 3923,
+"images": [
+{
+"@id": "https://iiif.lib.umd.edu/manifests/fcrepo:pcdm%2Fc1%2Fd1%2F55%2Fd5%2Fc1d155d5-1633-44cb-8049-febc0b3e4ff2/annotation/fcrepo:pcdm%2F5b%2F5c%2F46%2Fb9%2F5b5c46b9-27b0-48b0-9141-924c1b1065a2",
+"@type": "oa:Annotation",
+"motivation": "sc:painting",
+"resource": {
+"@id": "https://iiif.lib.umd.edu/images/fcrepo:pcdm%2F5b%2F5c%2F46%2Fb9%2F5b5c46b9-27b0-48b0-9141-924c1b1065a2",
+"@type": "dctypes:Image",
+"format": "image/jpeg",
+"service": {
+"@context": "http://iiif.io/api/image/2/context.json",
+"@id": "https://iiif.lib.umd.edu/images/fcrepo:pcdm%2F5b%2F5c%2F46%2Fb9%2F5b5c46b9-27b0-48b0-9141-924c1b1065a2",
+"profile": "http://iiif.io/api/image/2/profiles/level2.json"
+},
+"height": 5323,
+"width": 3923
+},
+"on": "https://iiif.lib.umd.edu/manifests/fcrepo:pcdm%2Fc1%2Fd1%2F55%2Fd5%2Fc1d155d5-1633-44cb-8049-febc0b3e4ff2/canvas/fcrepo:pcdm%2Fa3%2F07%2Fa4%2F45%2Fa307a445-dcae-4821-8489-4f4a8e254fdd"
+}
+],
+"otherContent": [
+{
+"@id": "https://iiif.lib.umd.edu/manifests/fcrepo:pcdm%2Fc1%2Fd1%2F55%2Fd5%2Fc1d155d5-1633-44cb-8049-febc0b3e4ff2/list/fcrepo:pcdm%2Fa3%2F07%2Fa4%2F45%2Fa307a445-dcae-4821-8489-4f4a8e254fdd",
+"@type": "sc:AnnotationList"
+}
+]
+}
+]
+}
+]
+}
